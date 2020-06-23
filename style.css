@@ -1,0 +1,18 @@
+body {
+  text-align: center;
+}
+button {
+  margin: 1rem;
+  width: 3.5rem;
+  height: 3.5rem;
+}
+.calculator-outer {
+  background-color: gray;
+  margin: auto;
+  font-size: 2rem;
+  width: 25rem;
+  height: 5rem;
+}
+#prev-operand {
+  font-size: 1rem;
+}
